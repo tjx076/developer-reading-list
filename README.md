@@ -369,6 +369,10 @@
 - C陷阱与缺陷.pdf
 - C专家编程.pdf
 
+### Rust
+
+- Rust 程序设计语言(https://kaisery.github.io/trpl-zh-cn/title-page.html)
+
 ### CPlusPlus
 
 - Bjarne Stroustrup A Tour of C++ (2013).pdf
