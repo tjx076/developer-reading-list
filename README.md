@@ -372,6 +372,8 @@
 ### Rust
 
 - Rust 程序设计语言(https://kaisery.github.io/trpl-zh-cn/title-page.html)
+- 【:+1::+1:】Rust 语言圣经(https://course.rs/about-book.html)
+- 通过例子学 Rust(https://rustwiki.org/zh-CN/rust-by-example/index.html)
 
 ### CPlusPlus
 
